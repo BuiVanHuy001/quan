@@ -1,19 +1,3 @@
-/*!
- * jQuery Tools v1.2.6 - The missing UI library for the Web
- * 
- * tabs/tabs.js
- * tabs/tabs.slideshow.js
- * tooltip/tooltip.js
- * tooltip/tooltip.dynamic.js
- * tooltip/tooltip.slide.js
- * 
- * NO COPYRIGHTS OR LICENSES. DO WHAT YOU LIKE.
- * 
- * http://flowplayer.org/tools/
- * 
- */
- 
- 
 
 (function ($) {
 

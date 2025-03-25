@@ -1,6 +1,3 @@
-//=============================================================
-//==  Stylesheets manipulations
-//=============================================================
 function setStateStyleSheet(title, state) {
 	var i, a;
 	for (i=0; (a = document.getElementsByTagName("link")[i]); i++) {
@@ -50,10 +47,6 @@ function getPreferredStyleSheet() {
 	return null;
 }
 
-
-//=============================================================
-//==  ListBox & ComboBox manipulations
-//=============================================================
 function addListBoxItem(box, val, text) {
 	var item = new Option();
 	item.value = val;
