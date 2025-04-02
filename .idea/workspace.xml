@@ -5,43 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61ab0e3f-01d7-45d0-8aeb-858602b249c2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/style/2.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/contact_icons.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/header_controls.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/header_controls_dark.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/level_bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/level_bg_dark.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/level_mask.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/level_mask_dark.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/line_hor.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/line_hor.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/line_hor_dark.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/list-styles.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/list_marker.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/list_marker2.png" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/my-avatar.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/my-avatar.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/googlemap_init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.cookie.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.easing.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.flexslider.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.isotope.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.prettyPhoto.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.qrcode-0.6.0.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.reject.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/js/jquery.tools.custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.tools.custom.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/lib.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/lib.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/mediaelement.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/utils.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/print.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/dark-theme.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/jquery.reject.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/mediaplayer.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/prettyPhoto.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/print.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/shift-settings.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/font-awesome/css/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/font-awesome/css/font-awesome.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/responsive.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -100,6 +72,9 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/style" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -122,6 +97,9 @@
       <workItem from="1742170294266" duration="6676000" />
       <workItem from="1742177596250" duration="5000" />
       <workItem from="1742276123667" duration="6000" />
+      <workItem from="1742871107748" duration="800000" />
+      <workItem from="1742872901201" duration="35000" />
+      <workItem from="1743607699330" duration="933000" />
     </task>
     <servers />
   </component>
